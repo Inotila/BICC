@@ -75,10 +75,16 @@ nav {
 
 /* business info */
 
+.hero-text{
+    background-color: rgba(117, 117, 117, 0.15);
+    height: 100%;
+    width: 100%;
+}
+
 #business-info {
 background-image: url(../images/consulting-img.jpg);
 background-repeat: no-repeat;
-background-size: contain;
+background-size: cover;
 background-position: right;
 }
 
