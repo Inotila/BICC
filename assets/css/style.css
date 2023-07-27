@@ -103,7 +103,11 @@ background-position: right;
 .event-img{
     max-width: 100%;
 }
-/* right/catergory section */
+/* lower homepage content */
+
+.home-text-links>a{
+    color: #000 !important;
+}
 
 /*----------------- footer --------------- */
 footer {
