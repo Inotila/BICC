@@ -8,6 +8,7 @@ body {
     background-color: #F5F5F5 !important;
     font-family: Oswald;
     font-weight: 400;
+    height: 100%;
 }
 
 a {
@@ -63,15 +64,35 @@ nav {
     border: none;
 }
 
-.nav-text{
-    color: #fd5949;
+.nav-text>h1{
+    color: #fd5949 !important;
 }
 
 /* logo */
 
-/* mid/search section */
+/* home */
 
+/* business info */
 
+#business-info {
+}
+
+#business-info-text {
+    width: 50%;
+}
+
+#home-hero-img {
+    width: 100%;
+}
+
+#event-container{
+    max-height: 200px;
+    background-color: #285AEB;
+}
+
+.event-img{
+    max-width: 100%;
+}
 /* right/catergory section */
 
 /*----------------- footer --------------- */
