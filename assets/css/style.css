@@ -12,12 +12,13 @@ body {
 }
 
 a {
-    text-decoration: none;
-    color: #F5F5F5;
+    text-decoration: none !important; 
+    color: #ff0000 !important;
 }
 
 a:hover{
-    text-decoration: none !important;
+        text-decoration: none!important;
+        color: #ffffff!important;
 }
 
 h1 {
