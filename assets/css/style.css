@@ -76,6 +76,10 @@ nav {
 /* business info */
 
 #business-info {
+background-image: url(../images/consulting-img.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+background-position: right;
 }
 
 #business-info-text {
